@@ -121,9 +121,9 @@ I believe the best way to learn technology is by building real products that sol
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtiazahmed&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtiaz-00x&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazahmed&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz-00x&layout=compact&hide_border=true&theme=transparent)
 ---
 
 🤝 Let's Connect
